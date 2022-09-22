@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Enriqueta&family=Macondo&family=Rubik+Mono+One&family=Charm&display=swap');
+
+/* font-family: 'Enriqueta', serif; //News
+font-family: 'Macondo', cursive; //Events
+font-family: 'Square Peg', cursive; /*Qutoes*/
+/* font-family: 'Rubik Mono One', sans-serif; Title */
+
+.font-title{
+    
+    font-family: 'Rubik Mono One', sans-serif;
+}
+
+.font-quote{
+    font-family: 'Charm', cursive;
+}
+
+.font-event{
+    font-family: 'Macondo', cursive;
+}
+
+.font-news{
+    font-family: 'Enriqueta', serif;
+}
+
+main {
+    min-height: 85vh;
+}
